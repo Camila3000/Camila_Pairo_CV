@@ -21,3 +21,11 @@ section {
     height: 10px;
     width: 15px;
   }
+
+.profile-description{
+  background-color: #fffdd1;
+  padding: 5px;
+  margin: 15px;
+  border-radius: 10px;
+  opacity: 1;
+  }
